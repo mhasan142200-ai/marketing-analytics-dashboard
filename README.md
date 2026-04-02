@@ -39,7 +39,7 @@ Commit the changes.
 
 ---
 
-## Step 5: Add It to Your Resume
+
 ```
 Digital Marketing Analytics Dashboard | Python (Pandas, Plotly)
 github.com/YOUR_USERNAME/marketing-analytics-dashboard
